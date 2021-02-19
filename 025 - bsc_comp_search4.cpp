@@ -15,7 +15,6 @@ int getNum(char ch) {
 	else if (ch == 'C')
 		return 4;
 
-	return 0;
 }
 
 int main() {
